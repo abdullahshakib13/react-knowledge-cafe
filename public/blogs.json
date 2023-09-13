@@ -1,47 +1,69 @@
 [
   {
-    "id": "12345",
+    "id": "1",
     "cover": "https://i.ibb.co/1dJLH02/8975463.jpg",
     "title": "The Secret of Lost Dreams",
     "author": "Emily Johnson",
     "author_img": "https://i.ibb.co/zQPQXkt/jurica-koletic-7-YVZYZe-ITc8-unsplash.jpg",
     "posted_date": "August 15, 2023",
-    "reading_time": 120
+    "reading_time": 120,
+    "hashtags": [
+        "beginner",
+        "es6"
+    ]
   },
   {
-    "id": "67890",
+    "id": "2",
     "cover": "https://i.ibb.co/wM7QbnL/top-view-workspace-with-laptop-cup-tea.jpg",
     "title": "The Enchanted Forest Chronicles",
     "author": "Benjamin Anderson",
     "author_img": "https://i.ibb.co/D4gKMgt/christian-buehner-DIt-Ylc26z-VI-unsplash.jpg",
     "posted_date": "September 3, 2023",
-    "reading_time": 210
+    "reading_time": 210,
+    "hashtags": [
+        "javascript",
+        "coding",
+        "dev"
+    ]
   },
   {
-    "id": "23456",
+    "id": "3",
     "cover": "https://i.ibb.co/88CLMb1/flat-lay-workstation-with-copy-space-laptop.jpg",
     "title": "Mystery at Midnight Manor",
     "author": "Jessica Smith",
     "author_img": "https://i.ibb.co/YhT4VSJ/harry-cunningham-EPi3-TRQc5-Z0-unsplash.jpg",
     "posted_date": "July 22, 2023",
-    "reading_time": 90
+    "reading_time": 90,
+    "hashtags": [
+        "mid_level",
+        "react"
+    ]
   },
   {
-    "id": "78901",
+    "id": "4",
     "cover": "https://i.ibb.co/SKBzFW1/jeshoots-com-p-UAM5h-Pa-CRI-unsplash.jpg",
     "title": "The Galactic Odyssey",
     "author": "David Turner",
     "author_img": "https://i.ibb.co/QNrLQzp/ben-den-engelsen-mscf-Mq3k-KI-unsplash.jpg",
     "posted_date": "June 10, 2023",
-    "reading_time": 240
+    "reading_time": 240,
+    "hashtags": [
+        "development",
+        "resources"
+    ]
   },
   {
-    "id": "34567",
+    "id": "5",
     "cover": "https://i.ibb.co/xD3DXCK/joanna-kosinska-1-CMo-Fs-Pfso-unsplash.jpg",
     "title": "In Search of Atlantis",
     "author": "Maria Rodriguez",
     "author_img": "https://i.ibb.co/vJ0n1SK/cody-scott-milewski-v-Xg-V5-XUl-Tog-unsplash.jpg",
     "posted_date": "October 8, 2023",
-    "reading_time": 165
+    "reading_time": 165,
+    "hashtags": [
+        "development",
+        "resources"
+    ]
   }
+  
 ]
